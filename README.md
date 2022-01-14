@@ -30,13 +30,15 @@ Installation of PyViz provides access to several data visualation tools, includi
 ___
     
     
-## Samples of Visualizations
+## Examples of Visualizations
 
-![Data Visualization 1] (https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_1_SF_Market_Analysis.png)
+![Data Visualization 1](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_1_SF_Market_Analysis.png)
 
-![Data Visualization 2] (https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_2_SF_Market_Analysis.png)
+![Data Visualization 2](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_2_SF_Market_Analysis.png)
 
-![Data Visualization 3] (https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_3_SF_Market_Analysis.png)
+![Data Visualization 3](https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/Plot_3_SF_Market_Analysis.png)
+
+___
 
 ## Contributors
 
