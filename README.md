@@ -32,8 +32,7 @@ ___
     
 ## Samples of Visualizations
 
-![Data Visualization 1]
-(https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/6-4-geoviews-plot.png)
+![Data Visualization 1] (https://raw.githubusercontent.com/ipopester/SF-Property-Market-Analysis/main/Images/6-4-geoviews-plot.png)
 
 
 ## Contributors
